@@ -1,5 +1,7 @@
 # Arquivo-em-C
 
+trabalho feito de acordo com o que foi pedido no arquivo "tp1"
+
 
 #include <stdio.h>
 #include <stdlib.h>                                     
