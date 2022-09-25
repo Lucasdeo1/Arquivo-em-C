@@ -6,6 +6,6 @@ Trabalho de Faculdade:
 -ordenação;
 -medias;
 -maiores e menores;
-etc...
+-criação de um novo arquivo com notas alteradas e alunos ordenados.
 
 
